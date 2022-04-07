@@ -1,0 +1,9 @@
+/* this is a element selector which style all p */
+p{
+    color: blueviolet;
+    background-color: yellowgreen;
+}
+/*  */
+h1{
+    color: red;
+}
